@@ -1,0 +1,1 @@
+export const button = React.lazy(() => import(/* webpackChunkName: "button" */ './fragments/button.react'));

@@ -1,0 +1,11 @@
+include muikit/muikit.min.js
+include muikit/muikit.min.js.map
+include muikit/async-*.js
+include muikit/async-*.js.map
+include muikit/*-shared.js
+include muikit/*-shared.js.map
+include muikit/metadata.json
+include muikit/package-info.json
+include README.md
+include LICENSE
+include package.json

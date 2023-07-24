@@ -1,0 +1,13 @@
+Package: muikit
+Title: josh
+Version: 0.0.1
+Description: josh
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License:  + file LICENSE
+URL: https://github.com/josh/muikit
+BugReports: https://github.com/josh/muikit/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
